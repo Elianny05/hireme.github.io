@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  color:white ;
+}
+.photo{
+  border:2px solid #694706; 
+  padding:3px; 
+  margin:4px
+}
+
+.aboutme {
+  background-color: #E2DAB0;
+  width: 300px;
+  border-style: double;
+  padding: 50px;
+  margin: 13px; 
+}
+
+.aboutme:hover{
+  border: 5px solid purple;
+}
+
+header{
+  background-image: linear-gradient(to right, #7a00b3 , #000000);
+}
+
+body{
+  background-image:url("https://i.pinimg.com/564x/06/e3/ac/06e3ac6783906a49e193e922627ecf6b.jpg");
+  background-size: 100%;
+}
+
+
+
+
+body {
+    background-color: #392328;
+}
+
+h3{
+  text-align: right;
+  color: white;
+}
+
+h3:hover{
+  background-color: white;
+  color: black;
+  height: 20px;
+  border: 5px dashed black;
+}
+
+a{
+  color: purple;
+}
+
+a:hover{
+  text-decoration: line-through;
+}
